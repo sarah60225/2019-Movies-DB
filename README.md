@@ -16,3 +16,7 @@ SQL_Scripts contains three SQL text files--functions, Use cases and Views.
 
 reportDB.pdf is the file to explain the procedure of API and to raise some examples to make movie database into practice.
 
+The test includes the application of functions, stored procedure and SQL cases.
+
+Also, we can see the popular tags and topics that people talk about and comment on to know the trends regarding the movies.
+
